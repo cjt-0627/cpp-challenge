@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "compare": "cpp",
+        "memory": "cpp",
+        "iostream": "cpp"
     }
 }
