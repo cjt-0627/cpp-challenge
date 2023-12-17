@@ -3,6 +3,7 @@
         "algorithm": "cpp",
         "compare": "cpp",
         "memory": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "istream": "cpp"
     }
 }

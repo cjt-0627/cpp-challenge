@@ -2,11 +2,8 @@
 using namespace std;
 int main()
 {
-    int a, b, c;
-    cin >> a >> b >> c;
-    int sum = 0;
-    for (int i = a; i <= b; i = i + c)
-        sum = sum + i;
-    cout << sum;
-    return 0;
+    cout<<(char)('l'+13)<<endl;
+    cout<<(char)('o'+13)<<endl;
+    cout<<(char)('v'-13)<<endl;
+    cout<<(char)('e'+13)<<endl;
 }
